@@ -20,4 +20,4 @@ This Python program finds the greatest number in an array.
 
 [Simon Paul]
 
-Feel free to customize this program based on your specific project details.
+Feel free to contribute, report issues, explore the code, and customize this program based on your specific project details.
